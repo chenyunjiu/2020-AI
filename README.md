@@ -12,6 +12,7 @@
 + 持之以恒的能力
 
 # 学习资料
++ [动手学习深度学习pytorch](https://github.com/chenyunjiu/Dive-into-DL-PyTorch)
 + [伯禹学习平台](https://www.boyuai.com/elites/course/cZu18YmweLv10OeV)
 + [mrakdown教程](https://www.runoob.com/markdown/md-link.html)
 
@@ -21,7 +22,9 @@
   - Task01 线性回归；Softmax与分类模型、多层感知机
   - Task02 文本预处理；语言模型；循环神经网络基础
 ## [part2]
-  - Task03 过拟合、欠拟合及其解决方案；梯度消失、梯度爆炸；循环[神经网络进阶](https://www.bilibili.com/video/av18994337?p=3)
+  - Task03 过拟合、欠拟合及其解决方案；梯度消失、梯度爆炸；
+  		   [循环神经网络进阶](https://www.bilibili.com/video/av18994337?p=3)
+  		   [understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - Task04 机器翻译及相关技术；注意力机制与Seq2seq模型；Transformer
   - Task05 卷积神经网络基础；leNet；卷积神经网络进阶
 ## [part3]
